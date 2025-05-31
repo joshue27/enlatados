@@ -1,0 +1,11 @@
+P001;Toyota;Hilux;Blanco;2020
+P002;Nissan;NP300;Rojo;2019
+P003;Ford;Ranger;Azul;2021
+P004;Chevrolet;D-Max;Negro;2018
+P005;Isuzu;ELF;Gris;2017
+P006;Hyundai;H100;Blanco;2022
+P007;Mazda;BT-50;Verde;2016
+P008;Kia;Bongo;Azul;2015
+P009;Volkswagen;Amarok;Negro;2020
+P010;Mitsubishi;L200;Rojo;2023
+

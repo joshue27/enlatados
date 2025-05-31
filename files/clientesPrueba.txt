@@ -1,0 +1,11 @@
+1001;Carlos;Ramírez;5551234;Zona 1
+1002;Ana;Martínez;5555678;Zona 3
+1003;Luis;Gómez;5551111;Zona 5
+1004;María;Pérez;5552222;Zona 7
+1005;José;López;5553333;Zona 6
+1006;Laura;Hernández;5554444;Zona 2
+1007;Miguel;Castillo;5555555;Zona 4
+1008;Elena;Ruiz;5556666;Zona 9
+1009;Ricardo;Mendoza;5557777;Zona 10
+1010;Paola;Cabrera;5558888;Zona 8
+
